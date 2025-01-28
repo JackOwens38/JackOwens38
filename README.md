@@ -2,7 +2,7 @@
 
 I am Jack, and I am currently majoring in business analytics at the University of Notre Dame, with minors in finance and computing and digital technology. I am originally from Philadelphia, Pennsylvania, and I love to cheer on my Philadelphia sports teams!
 
-### Technical Skills: Python, Java, PowerBI
+### **Technical Skills:** Python, Java, PowerBI
 
 <!--
 **JackOwens38/JackOwens38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
