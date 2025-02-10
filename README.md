@@ -6,6 +6,7 @@ I am Jack, and I am currently majoring in business analytics at the University o
 ### [My Python Portfolio]([url](https://github.com/JackOwens38/OWENS-Python-Portfolio))
 
 #### Here is my [LinkedIn]([url](https://www.linkedin.com/in/jack-owens-nd/)) profile!
+#### My email is: jowens6@nd.edu
 
 <!--
 **JackOwens38/JackOwens38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
