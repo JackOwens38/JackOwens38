@@ -3,9 +3,9 @@
 I am Jack, and I am currently majoring in business analytics at the University of Notre Dame, with minors in finance and computing and digital technology. I am originally from Philadelphia, Pennsylvania, and I love to cheer on my Philadelphia sports teams!
 
 ### **Technical Skills:** Python, Java, PowerBI
-### [My Python Portfolio]([url](https://github.com/JackOwens38/OWENS-Python-Portfolio))
+### [My Python Portfolio](https://github.com/JackOwens38/OWENS-Python-Portfolio)
 
-#### Here is my [LinkedIn]([url](https://www.linkedin.com/in/jack-owens-nd/)) profile!
+#### Here is my [LinkedIn](https://www.linkedin.com/in/jack-owens-nd/) profile!
 #### My email is: jowens6@nd.edu
 
 <!--
